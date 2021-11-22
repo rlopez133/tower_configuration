@@ -13,8 +13,8 @@
 # list of dicts describing Tower users
 controller_user_accounts: []
 # possible fields:
-# - username: "user_name"  # mandatory
-#  password: "redhat"  # optional (write only, will mark task as changed)
+  - username: "roger"  # mandatory
+    password: "redhat"  # optional (write only, will mark task as changed)
 #  email: "somebody@dev.null"  # optional
 #  first_name: "Jim"  # optional
 #  last_name: "Smith"  # optional
